@@ -17,6 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PyCplus", "PyCplus", "{ED29
 	ProjectSection(SolutionItems) = preProject
 		PyCplus\NativeClass.cpp = PyCplus\NativeClass.cpp
 		PyCplus\ReadeMe.txt = PyCplus\ReadeMe.txt
+		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
 Global

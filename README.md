@@ -1,2 +1,1 @@
-# CplusCallNetCore
-c++ 通过coreclr调用.netcore
+应用程序二进制接口 对接
